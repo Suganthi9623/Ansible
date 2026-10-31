@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 nafasdjafhnlkjasf
 sadfklna;sdf
 sfknsad f
@@ -5,3 +6,9 @@ dsafndsa;f
 asdfknas
 fa sldfa
 
+=======
+jdshfkjsfnvcbkjhnfckjhsdk
+sdfjhjqkhd
+dsjfjkqf
+ksdf;lq
+>>>>>>> main
